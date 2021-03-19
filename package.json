@@ -1,0 +1,19 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "my ts booknpm init",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanrussouw/ts-book.git"
+  },
+  "author": "Johan Russouw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johanrussouw/ts-book/issues"
+  },
+  "homepage": "https://github.com/johanrussouw/ts-book#readme"
+}
